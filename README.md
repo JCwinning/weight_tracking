@@ -5,10 +5,10 @@
 A comprehensive personal weight and BMI tracking web application built with R Shiny, featuring AI-powered health suggestions. This interactive dashboard helps you monitor your weight trends, calculate BMI, maintain comprehensive fitness records, and receive personalized health advice.
 
 
-![Screenshot](images/2.png)
+![Screenshot](images/0.png)
 
 
-![Screenshot](images/3.png)
+![Screenshot](images/1.png)
 
 
 ## Live Demo
