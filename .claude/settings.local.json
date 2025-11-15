@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Rscript:*)",
+      "Bash(pkill:*)",
+      "WebFetch(domain:ellmer.tidyverse.org)",
+      "WebSearch",
+      "Bash(R:*)",
+      "Bash(timeout 10s Rscript:*)",
+      "Bash(python3:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

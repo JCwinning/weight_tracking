@@ -1,0 +1,12 @@
+name: new_app
+title:
+username: tonyflying
+account: tonyflying
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15109387
+bundleId: 11171729
+url: https://tonyflying.shinyapps.io/new_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
