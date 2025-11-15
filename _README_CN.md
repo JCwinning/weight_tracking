@@ -1,4 +1,4 @@
-[English](README.md) | [中文](README_CN.md)
+[English](README.md) | [中文](_README_CN.md)
 
 # 体重追踪 Shiny 应用
 
