@@ -13,7 +13,7 @@
 
 ## 在线演示
 
-https://jcflyingco.shinyapps.io/weight-tracking/
+https://jcflyingco.shinyapps.io/weight_tracking/
 
 
 

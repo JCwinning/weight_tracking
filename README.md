@@ -13,7 +13,7 @@ A comprehensive personal weight and BMI tracking web application built with R Sh
 
 ## Live Demo
 
-https://jcflyingco.shinyapps.io/weight-tracking/
+https://jcflyingco.shinyapps.io/weight_tracking/
 
 
 
